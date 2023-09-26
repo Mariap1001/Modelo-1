@@ -1,0 +1,6 @@
+numpy
+streamlit
+sklearn
+catboost
+pandas
+pickle
